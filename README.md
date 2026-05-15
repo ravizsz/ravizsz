@@ -1,16 +1,79 @@
-## Hi there 👋
+# yo, i’m Ravishankar Singh
 
-<!--
-**ravizsz/ravizsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### student × builder × founder
 
-Here are some ideas to get you started:
+currently obsessed with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• ai/ml
+• startups
+• computer science
+• open source
+• building cool internet stuff
+
+---
+
+## current lore
+
+```txt id="rz8s4u"
+trying to turn ideas into products before overthinking them
+```
+
+• learning in public
+• shipping random experiments
+• contributing to open source
+• building cs, ai/ml & robotics projects
+• connecting with ambitious people online
+
+---
+
+## tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode" />
+</p>
+
+---
+
+## github stats bc everyone has this
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## currently building
+
+• cs, ai/ml robotics projects
+• startup ideas
+• side quests that may accidentally become companies
+
+---
+
+## looking to connect with
+
+• builders
+• cracked devs
+• startup founders
+• researchers
+• open source contributors
+• ambitious internet friends
+
+---
+
+## philosophy
+
+> build first. sleep for the rest.
+
+---
+
+## socials
+
+• linkedin → https://www.linkedin.com/in/ravishankarxsingh/
+• twitter/x → https://x.com/ravizsz/
+
+---
+
+<p align="center">
+  <i>lowkey building the future fr</i>
+</p>
