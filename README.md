@@ -42,14 +42,6 @@ trying to turn ideas into products before overthinking them
 
 ---
 
-## currently building
-
-• cs, ai/ml robotics projects
-• startup ideas
-• side quests that may accidentally become companies
-
----
-
 ## looking to connect with
 
 • builders
@@ -58,12 +50,6 @@ trying to turn ideas into products before overthinking them
 • researchers
 • open source contributors
 • ambitious internet friends
-
----
-
-## philosophy
-
-> build first. sleep for the rest.
 
 ---
 
