@@ -29,7 +29,7 @@ trying to turn ideas into products before overthinking them
 ## tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode,c++,mongodb,epress.js,react,node.js,c,bootstrap" />
 </p>
 
 ---
@@ -61,5 +61,5 @@ trying to turn ideas into products before overthinking them
 ---
 
 <p align="center">
-  <i>lowkey building the future fr</i>
+  <i>build.</i>
 </p>
