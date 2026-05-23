@@ -29,7 +29,7 @@ trying to turn ideas into products before overthinking them
 ## tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode,c++,mongodb,epressjs,react,nodejs,c,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode,cpp,mongodb,epress,react,nodejs,c,bootstrap" />
 </p>
 
 ---
