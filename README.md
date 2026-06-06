@@ -1,6 +1,6 @@
 # yo, i’m Ravishankar Singh
 
-### student × builder × founder
+### engineer
 
 currently obsessed with:
 
