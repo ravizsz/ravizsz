@@ -18,7 +18,7 @@ currently obsessed with:
 trying to turn ideas into products before overthinking them
 ```
 
-• learning in public
+• building in public
 • shipping random experiments
 • contributing to open source
 • building cs, ai/ml & robotics projects
@@ -61,5 +61,5 @@ trying to turn ideas into products before overthinking them
 ---
 
 <p align="center">
-  <i>build.</i>
+  <i>let's connect!</i>
 </p>
