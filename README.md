@@ -22,7 +22,6 @@ trying to turn ideas into products before overthinking them
 • shipping random experiments
 • contributing to open source
 • building cs, ai/ml & robotics projects
-• connecting with ambitious people online
 
 ---
 
@@ -50,13 +49,6 @@ trying to turn ideas into products before overthinking them
 • researchers
 • open source contributors
 • ambitious internet friends
-
----
-
-## socials
-
-• linkedin → https://www.linkedin.com/in/ravishankarxsingh/
-• twitter/x → https://x.com/ravizsz/
 
 ---
 
