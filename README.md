@@ -19,7 +19,6 @@ trying to turn ideas into products before overthinking them
 ```
 
 • building in public
-• shipping random experiments
 • contributing to open source
 • building cs, ai/ml & robotics projects
 
@@ -29,14 +28,6 @@ trying to turn ideas into products before overthinking them
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,git,github,html,css,vscode,cpp,mongodb,express,react,nodejs,c,bootstrap" />
-</p>
-
----
-
-## github stats bc everyone has this
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
